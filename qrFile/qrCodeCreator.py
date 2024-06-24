@@ -1,4 +1,4 @@
 import qrcode
 
-img = qrcode.make('https://www.linkedin.com/in/josemondragonit/')
+img = qrcode.make('https://github.com/mondragon-developer/pythonmondragon')
 img.save('linkedin_qr.png')
