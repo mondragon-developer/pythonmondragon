@@ -41,3 +41,9 @@ making it easy to learn and understand different aspects of Python programming.
    Folder: passwordGenerator
    Description: This project creates a password and save it in a .txt file with the name of the site or app
    Dependencies: None
+
+9. Image Resizer
+   Folder: resizeImage
+   Description: This project resizes images in a specified directory to a target size while maintaining the aspect ratio. It supports both enlarging and shrinking images.
+   Dependencies: pillow
+
