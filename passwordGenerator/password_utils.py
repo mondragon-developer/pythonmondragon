@@ -19,6 +19,7 @@ def generate_password(length=20):
 def save_password(site_and_username, password, file_path):
     with open(file_path, 'a') as file:
         file.write(f"{site_and_username}: {password}\n")
+        print(f"The password is: {password}")
 
 # Function to create and save a password for a site
 def create_and_save_password(site_and_username, length=20, file_path=PASSWORD_FILE_PATH):

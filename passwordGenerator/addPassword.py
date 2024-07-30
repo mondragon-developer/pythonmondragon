@@ -12,6 +12,7 @@ def main():
             print("Please enter a valid number for the password length.")
             continue
         create_and_save_password(site_and_username, password_length)
+        
 
 if __name__ == "__main__":
     main()
