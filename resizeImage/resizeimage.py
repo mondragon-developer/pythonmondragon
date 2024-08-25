@@ -16,6 +16,6 @@ def resize_images(input_dir, output_dir, size):
 if __name__ == "__main__":
     input_dir = "input_images"  
     output_dir = "resized_images"  
-    size = (800, 800)  # Target size for resizing (width, height)
+    size = (800, 400)  # Target size for resizing (width, height)
     resize_images(input_dir, output_dir, size)  # Call the function to resize images
     print("All images have been resized!") 
