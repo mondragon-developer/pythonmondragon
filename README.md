@@ -47,5 +47,5 @@ making it easy to learn and understand different aspects of Python programming.
    Description: This project resizes images in a specified directory to a target size while maintaining the aspect ratio. It supports both enlarging and shrinking images.
    Dependencies: pillow
 
-10. More comming soon
+
 
